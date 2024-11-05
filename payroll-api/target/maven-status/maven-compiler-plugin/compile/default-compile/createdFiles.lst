@@ -1,0 +1,9 @@
+br\com\felix\payrollapi\domain\Payroll.class
+br\com\felix\payrollapi\feignClients\UserFeign.class
+br\com\felix\payrollapi\resources\PayrollResource.class
+br\com\felix\payrollapi\services\PayrollService.class
+br\com\felix\payrollapi\resources\exceptions\StandardError.class
+br\com\felix\payrollapi\services\exceptions\ObjectNotFoundException.class
+br\com\felix\payrollapi\domain\User.class
+br\com\felix\payrollapi\PayrollApiApplication.class
+br\com\felix\payrollapi\resources\exceptions\ResourceExceptionHandler.class
