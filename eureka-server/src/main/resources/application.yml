@@ -9,3 +9,4 @@ eureka:
     fetch-registry: false
   instance:
     hostname: localhost
+    
